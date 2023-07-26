@@ -1,10 +1,21 @@
 package ModelElements;
 
+import Stuff.Point3D;
+
+import Stuff.Angle3D;
+
 public class Camera {
-    public list<Point3D> location;
-    public list<Angle3D> angle;
+    public Point3D location;
+    public Angle3D angle;
+    
+    public void rotate(Angle3D angle)
+    {
+
+    }
+
+    public void move(Point3D Point)
+    {
+
+    }
 }
 
-public void main(String[Angle3D] rotate);
-
-public void main(String[Point3D] muve);
