@@ -1,5 +1,9 @@
 package InMemoryModel;
 
+import java.util.List;
+
+import Stuff.Point3D;
+
 public class Poligon {
-    public list<Point3D> points;
+    public List<Point3D> points ;
 }
