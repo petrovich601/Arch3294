@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T09:15:54.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="53ddLDd88izABlBaGX2h" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-27T09:21:44.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0" etag="82e9dSS-NohO04tQ7cOx" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2201" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="h5kwj9fp45KTlVinUDGR-7" value="Уборка" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="130" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h5kwj9fp45KTlVinUDGR-8" target="h5kwj9fp45KTlVinUDGR-23">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h5kwj9fp45KTlVinUDGR-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h5kwj9fp45KTlVinUDGR-8" target="h5kwj9fp45KTlVinUDGR-24">
           <mxGeometry relative="1" as="geometry" />
@@ -176,34 +173,31 @@
         <mxCell id="h5kwj9fp45KTlVinUDGR-17" value="Обновление" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="1169" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-18" value="Очистка&lt;br&gt;контейнера" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="200" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-20" value="Заливка&lt;br&gt;воды" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h5kwj9fp45KTlVinUDGR-21" value="Пульт" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-120" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-22" value="Замена у-ф лампы" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="840" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-24" value="Состояние/&lt;br&gt;диагностика" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-25" value="Замена АКБ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-26" value="Замена щеток" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-27" value="Замена&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ароматизатора" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="440" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h5kwj9fp45KTlVinUDGR-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h5kwj9fp45KTlVinUDGR-28" value="Замена&lt;br&gt;салфетки" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="900" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h5kwj9fp45KTlVinUDGR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h5kwj9fp45KTlVinUDGR-30" target="h5kwj9fp45KTlVinUDGR-54">
